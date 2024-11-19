@@ -1,6 +1,6 @@
 # team03 - Habitual
 
-Wellness Journey Web application geared towards Muslim Youth and Young Adults
+Wellness journey & habit building web application geared towards youth and young adults
 
 ## Deployed Link
 https://habituall.herokuapp.com/login
