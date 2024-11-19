@@ -1,0 +1,13 @@
+.write-padding{
+    padding: 25px 30px 25px 40px !important;
+}
+
+.write-height {
+    height: 62vh;
+}
+
+@media (max-width: 960px) {
+    .write-height {
+        height: 20vh;
+    }
+  }

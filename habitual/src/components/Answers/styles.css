@@ -1,0 +1,10 @@
+.hover-answer {
+    background-color: white;
+    transition: 0.3s;
+}
+
+.hover-answer:hover{
+    background-color: #0e0d0d;
+    color: white;
+    transition: 0.3s;
+}

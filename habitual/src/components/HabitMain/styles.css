@@ -1,0 +1,16 @@
+.side-height{
+    height: 45vh !important;
+    transition: 0.3s;
+}
+
+.side-height:hover{
+    background-color: #121213;
+    color: rgb(228, 228, 228);
+    transition: 0.3s;
+}
+.button-page{
+    text-decoration: none !important;
+    text-transform: none !important;
+    padding: 0px !important;
+    margin: 0px !important;
+}

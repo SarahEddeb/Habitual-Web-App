@@ -1,0 +1,35 @@
+.mb-posts{
+  margin-bottom: 2vh;
+}
+
+.color {
+  border-top: solid;
+  border-width: 1px;
+  border-color: rgb(110, 110, 110) !important;
+  margin-top: 5vh;
+  padding: 10px 0px 10px 0px;
+}
+
+.share-pos {
+  position: relative;
+  top: 19px;
+  margin-left: 2vh !important;
+}
+
+.icon {
+  color: black !important;
+}
+
+.smallerButtonCP {
+  border: solid;
+  border-width: 1px;
+  border-radius: 25px !important; /* This is working */
+  border-color: rgb(110, 110, 110) !important;
+  background-color: black !important;
+  padding: 5px 25px 5px 25px !important;
+  transition: 0.3s;
+  font-size: 0.65em !important;
+  font-weight: 400 !important;
+  color: white !important;
+  border-radius: 8% !important;
+}

@@ -1,0 +1,11 @@
+.mb-posts{
+  margin-bottom: 2vh;
+}
+
+.color {
+  border-top: solid;
+  border-width: 1px;
+  border-color: rgb(110, 110, 110) !important;
+  margin-top: 5vh;
+  padding: 10px 0px 10px 0px;
+}
